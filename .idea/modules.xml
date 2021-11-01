@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/spring_cloud.iml" filepath="$PROJECT_DIR$/spring_cloud.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud-api/springcloud-api.iml" filepath="$PROJECT_DIR$/springcloud-api/springcloud-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-config-server-3344/springcloud-config-server-3344.iml" filepath="$PROJECT_DIR$/springcloud-config-server-3344/springcloud-config-server-3344.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud-consumer-dept-80/springcloud-consumer-dept-80.iml" filepath="$PROJECT_DIR$/springcloud-consumer-dept-80/springcloud-consumer-dept-80.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud-consumer-dept-feign/springcloud-consumer-dept-feign.iml" filepath="$PROJECT_DIR$/springcloud-consumer-dept-feign/springcloud-consumer-dept-feign.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud-consumer-hystrix-dashboard/springcloud-consumer-hystrix-dashboard.iml" filepath="$PROJECT_DIR$/springcloud-consumer-hystrix-dashboard/springcloud-consumer-hystrix-dashboard.iml" />
