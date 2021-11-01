@@ -10,3 +10,5 @@ spring:
       server:
         git:
           uri: https://gitee.com/starsXu/spring-cloud.git
+          username: 18397946250
+          password: qq834526069
