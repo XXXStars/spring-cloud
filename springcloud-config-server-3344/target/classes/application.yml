@@ -4,11 +4,8 @@ server:
 spring:
   application:
     name: springcloud-config-server
-    # 连接远程仓库
   cloud:
     config:
       server:
         git:
           uri: https://gitee.com/starsXu/spring-cloud.git
-          username: 18397946250
-          password: qq834526069

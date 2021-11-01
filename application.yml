@@ -1,13 +1,17 @@
 spring:
   prefiles:
     active: dev
+
 ---
+
 spring:
   prefiles: dev
   application:
     name: springcloud-config-dev
+
 ---
+
 spring:
   prefiles: test
-    application:
-      name: springcloud-config-test
+  application:
+    name: springcloud-config-test
